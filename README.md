@@ -1,2 +1,2 @@
-# Demo-Project
+# SolarTrack-LoRa
 PCB Design
